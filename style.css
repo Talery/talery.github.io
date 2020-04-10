@@ -1,11 +1,11 @@
-p {
-			font-family: sans-serif;
-			background-color: red;
-			border: 1px solid green;
-		}
+p, table {
+	font-family: sans-serif;
+	background-color: red;
+	border: 1px solid green;
+}
 
-		h1 {
-			font-family: sans-serif;
-			color: gray;
-			border-bottom: 1px solid green
-		}
+h1 {
+	font-family: sans-serif;
+	color: gray;
+	border-bottom: 1px solid green
+}
