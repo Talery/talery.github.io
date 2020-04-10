@@ -6,11 +6,14 @@ body {
 p {
 	font-family: sans-serif;
 	border: 1px solid green;
-	background-color: white;
-	opacity: 0.5;
 }
 
-h1.himan {
+p.pimg {
+	background-color: none;
+	border: none;
+}
+
+h1.himan, .himg {
 	font-family: sans-serif;
 	border: 1px solid green;
 	background-color: white;
