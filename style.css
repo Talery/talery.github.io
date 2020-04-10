@@ -2,11 +2,12 @@ p, table {
 	font-family: sans-serif;
 	background-color: red;
 	border: 1px solid green;
+	background-image: url(logo/Logo.png;);
 }
 
 h1 {
 	font-family: sans-serif;
 	color: gray;
-	border-bottom: 1px solid green
-	background-image: url(logo/Logo.png;)
+	border-bottom: 1px solid green;
+	background-image: url(logo/Logo.png;);
 }
