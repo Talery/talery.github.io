@@ -16,3 +16,8 @@ h1.himan {
 	background-color: white;
 	opacity: 0.5;
 }
+.centerimg {
+	display: block;
+	margin: 0 auto;
+}
+}
