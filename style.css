@@ -1,11 +1,18 @@
-p, h1 {
+body {
+	background-image: url(images/bg.jpg);
+	background-position: center;
+}
+
+p {
 	font-family: sans-serif;
 	border: 1px solid green;
 	background-color: white;
 	opacity: 0.5;
 }
 
-body {
-	background-image: url(images/bg.jpg);
-	background-position: center;
+h1.himan {
+	font-family: sans-serif;
+	border: 1px solid green;
+	background-color: white;
+	opacity: 0.5;
 }
