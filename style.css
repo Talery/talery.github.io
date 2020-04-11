@@ -6,6 +6,8 @@ body {
 p {
 	font-family: sans-serif;
 	border: 1px solid green;
+	background-color: white;
+	opacity: 0.5;
 }
 
 p.pimg {
