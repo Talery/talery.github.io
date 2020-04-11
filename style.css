@@ -10,12 +10,6 @@ p {
 	opacity: 0.5;
 }
 
-p.pimg {
-	background-color: white;
-	opacity: 0.0;
-	border: none;
-}
-
 h1.himan, .himg {
 	font-family: sans-serif;
 	border: 1px solid green;
