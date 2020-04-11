@@ -11,7 +11,8 @@ p {
 }
 
 p.pimg {
-	background-color: none;
+	background-color: white;
+	opacity: 0.0;
 	border: none;
 }
 
