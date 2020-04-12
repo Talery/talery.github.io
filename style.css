@@ -1,10 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap&subset=cyrillic');
 body {
 	background-image: url(images/bg.jpg);
 	background-position: center;
 }
 
 .text {
-	font-family: monospace;
+	font-family: 'Russo One', sans-serif; 
 	border: 1px solid green;
 	background-color: white;
 	opacity: 0.5;
@@ -15,4 +17,4 @@ body {
 	display: block;
 	margin: 0 auto;
 }
-}
+
