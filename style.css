@@ -12,6 +12,7 @@ body {
 	border: 1px inset black;
 	border-radius: 15px;
 	padding: 25px;
+	text-align: center;
 }
 
 .padded {
