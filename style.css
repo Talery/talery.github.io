@@ -3,6 +3,7 @@
 body {
 	background-image: url(images/bg.jpg);
 	background-position: center;
+	background-repeat: no-repeat;
 	font-family: 'Russo One', sans-serif; 
 }
 
@@ -12,6 +13,10 @@ body {
 	border: 1px solid black;
 }
 
+.padded {
+	padding: 25px;
+	margin: 30px;
+}
 
 .centerimg {
 	display: block;
