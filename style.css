@@ -25,21 +25,28 @@ body {
 	margin: 0 auto;
 }
 
-#me {
-	background-color: white;
-	opacity: 0.5;
+#meet {
 	border: 1px inset black;
 	border-radius: 15px;
+	text-align: center;
 	width: 500px;
-	padding: 25px;
-	text-align: right;
+	float: left;
 }
 
-#lena {
-	background-color: white;
-	opacity: 0.5;
+#greet {
 	border: 1px inset black;
 	border-radius: 15px;
-	padding: 25px;
-	text-align: left;
+	text-align: center;
+	width: 600px;
+	float: right;
+}
+
+a:link {
+	color: green;
+}
+a:visited {
+	color: red;
+}
+a:hover {
+	color: yellow;
 }
