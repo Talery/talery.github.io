@@ -25,3 +25,21 @@ body {
 	margin: 0 auto;
 }
 
+#me {
+	background-color: white;
+	opacity: 0.5;
+	border: 1px inset black;
+	border-radius: 15px;
+	width: 500px;
+	padding: 25px;
+	text-align: right;
+}
+
+#lena {
+	background-color: white;
+	opacity: 0.5;
+	border: 1px inset black;
+	border-radius: 15px;
+	padding: 25px;
+	text-align: left;
+}
