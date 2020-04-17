@@ -42,10 +42,12 @@ body {
 }
 
 #footer {
- font-size: 50%;
- text-align: center;
- line-height: normal;
- margin-top: 30px;
+	font-size: 50%;
+	line-height: normal;
+	margin-top: 30px;
+	position: fixed;
+	bottom: 0;
+	right: 0;
 }
 
 a:link {
