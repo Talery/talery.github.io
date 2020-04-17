@@ -41,6 +41,13 @@ body {
 	float: right;
 }
 
+#footer {
+ font-size: 50%;
+ text-align: center;
+ line-height: normal;
+ margin-top: 30px;
+}
+
 a:link {
 	color: green;
 }
