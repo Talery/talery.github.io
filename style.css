@@ -40,12 +40,13 @@ body {
 	width: 600px;
 	float: right;
 }
-
 #footer {
-	font-size: 50%;
-	text-align: center;
-	line-height: normal;
-	margin-top: 30px;
+	background-color: #675c47;
+	color:            #efe5d0;
+	text-align:       center;
+	padding:          15px;
+	margin: 0px 10px 10px 10px;
+	font-size:        90%;
 }
 
 a:link {
