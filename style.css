@@ -1,60 +1,9 @@
 
-@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap&subset=cyrillic');
-body {
-	background-image: url(images/bg.jpg);
-	background-position: center;
-	font-family: 'Russo One', sans-serif; 
-}
-
-.text {
-	background-color: white;
-	opacity: 0.5;
-	border: 1px inset black;
-	border-radius: 15px;
-	padding: 25px;
-	text-align: center;
-}
-
-.padded {
-	padding: 25px;
-	margin: 30px;
-}
-
 .centerimg {
 	display: block;
 	margin: 0 auto;
 }
 
-#meet {
-	border: 1px inset black;
-	border-radius: 15px;
+blockquote {
 	text-align: center;
-	width: 500px;
-	float: left;
-}
-
-#greet {
-	border: 1px inset black;
-	border-radius: 15px;
-	text-align: center;
-	width: 600px;
-	float: right;
-}
-#footer {
-	background-color: #675c47;
-	color:            #efe5d0;
-	text-align:       center;
-	padding:          15px;
-	margin: 0px 10px 10px 10px;
-	font-size:        90%;
-}
-
-a:link {
-	color: green;
-}
-a:visited {
-	color: red;
-}
-a:hover {
-	color: yellow;
 }
